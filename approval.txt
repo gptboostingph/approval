@@ -1,7 +1,7 @@
 [
     {
         "key": "ZIEV-15887VNEAG",
-        "expires": "2025-12-10"
+        "expires": "2025-10-20"
     },
     {
         "key": "your-generated-key-2",
