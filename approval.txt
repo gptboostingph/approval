@@ -4,7 +4,7 @@
         "expires": "2025-10-20"
     },
     {
-        "key": "GMAS-65012RKS08",
-        "expires": "2025-10-15"
+        "key": "RQJH-65147XINMZ",
+        "expires": "2025-10-06"
     }
 ]
