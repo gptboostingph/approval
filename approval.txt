@@ -1,6 +1,6 @@
 [
     {
-        "key": "ZIEV-15887VNEAG",
+        "key": "LZOK-68936T6WMF",
         "expires": "2025-10-20"
     },
     {
