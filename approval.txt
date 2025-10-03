@@ -4,7 +4,7 @@
         "expires": "2025-10-20"
     },
     {
-        "key": "your-generated-key-2",
+        "key": "GMAS-65012RKS08",
         "expires": "2025-10-15"
     }
 ]
